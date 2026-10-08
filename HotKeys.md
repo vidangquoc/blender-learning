@@ -27,6 +27,12 @@
 |---|---|
 | `I` | Insert Keyframe |
 | `Space` | Play / Pause animation |
+| `Left Arrow` | Lùi 1 frame |
+| `Right Arrow` | Tiến 1 frame |
+| `Up Arrow` | Nhảy tới keyframe trước |
+| `Down Arrow` | Nhảy tới keyframe sau |
+| `Shift + Left Arrow` | Về frame đầu tiên |
+| `Shift + Right Arrow` | Tới frame cuối cùng |
 
 ## Viewport
 
