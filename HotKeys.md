@@ -26,6 +26,7 @@
 | Hotkey | Chức năng |
 |---|---|
 | `I` | Insert Keyframe |
+| `Alt + I` | Xóa keyframe tại frame hiện tại |
 | `Space` | Play / Pause animation |
 | `Left Arrow` | Lùi 1 frame |
 | `Right Arrow` | Tiến 1 frame |
