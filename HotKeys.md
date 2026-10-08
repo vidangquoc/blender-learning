@@ -35,6 +35,13 @@
 | `Shift + Left Arrow` | Về frame đầu tiên |
 | `Shift + Right Arrow` | Tới frame cuối cùng |
 
+## Dope Sheet
+
+| Hotkey | Chức năng |
+|---|---|
+| `A` | Chọn toàn bộ keyframe |
+| `S` | Scale keyframe — Giãn / thu thời gian của keyframe |
+
 ## Viewport
 
 | Hotkey | Chức năng |
