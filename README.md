@@ -10,8 +10,8 @@ Lộ trình học Blender từ cơ bản đến hoàn thiện animation/combat c
 Chỉ đánh dấu DONE khi đã thực hành và đạt tiêu chí PASS.
 
 ## Roadmap
-1. 🟡 Blender Fundamentals — 01: Làm quen Blender & Timeline
-2. ⚪ Blender Fundamentals — 02: Transform & Keyframe
+1. 🟢 Blender Fundamentals — 01: Làm quen Blender & Timeline
+2. 🟡 Blender Fundamentals — 02: Transform & Keyframe
 3. ⚪ Blender Fundamentals — 03: Dope Sheet & Graph Editor cơ bản
 4. ⚪ Roblox Character — 04: R6/R15, Rig & Bone
 5. ⚪ Roblox Character — 05: Import/chuẩn bị character trong Blender
