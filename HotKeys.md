@@ -33,6 +33,7 @@
 | Hotkey | Chức năng |
 |---|---|
 | `N` | Mở / đóng Sidebar (N-Panel) |
+| `T` | Mở / đóng Toolbar bên trái |
 
 ## Ghi chú
 
