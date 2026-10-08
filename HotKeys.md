@@ -28,6 +28,12 @@
 | `I` | Insert Keyframe |
 | `Space` | Play / Pause animation |
 
+## Viewport
+
+| Hotkey | Chức năng |
+|---|---|
+| `N` | Mở / đóng Sidebar (N-Panel) |
+
 ## Ghi chú
 
 File này dùng để lưu và bổ sung các hotkey Blender trong quá trình học animation Roblox.
