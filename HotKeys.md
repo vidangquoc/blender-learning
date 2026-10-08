@@ -42,6 +42,13 @@
 | `A` | Chọn toàn bộ keyframe |
 | `S` | Scale keyframe — Giãn / thu thời gian của keyframe |
 
+## Graph Editor
+
+| Hotkey | Chức năng |
+|---|---|
+| `A` | Chọn toàn bộ keyframe |
+| `T` | Mở Menu Interpolation — Chọn kiểu nội suy |
+
 ## Viewport
 
 | Hotkey | Chức năng |
