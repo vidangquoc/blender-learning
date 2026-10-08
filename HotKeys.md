@@ -40,6 +40,7 @@
 | Hotkey | Chức năng |
 |---|---|
 | `A` | Chọn toàn bộ keyframe |
+| `G` | Move keyframe — Di chuyển keyframe theo thời gian |
 | `S` | Scale keyframe — Giãn / thu thời gian của keyframe |
 
 ## Graph Editor
