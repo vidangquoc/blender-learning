@@ -69,6 +69,13 @@
 | `G` | Di chuyển bone/IK target trong Pose Mode |
 | `E` | Extrude bone mới trong Armature Edit Mode |
 
+## Rig & Bone — thao tác đã dùng
+
+| Hotkey / thao tác | Chức năng |
+|---|---|
+| `G` trong Pose Mode | Di chuyển bone điều khiển/IK target; Pole Target cũng có thể được di chuyển bằng G |
+| Chọn Pole Target trong IK Constraint | Chỉ định bone điều khiển hướng gập của chuỗi IK; đây là thiết lập trong Properties, không phải hotkey |
+
 ## Ghi chú
 
 File này dùng để lưu và bổ sung các hotkey Blender trong quá trình học animation Roblox.
