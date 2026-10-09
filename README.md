@@ -35,18 +35,19 @@ Chỉ đánh dấu DONE khi đã thực hành và đạt tiêu chí PASS.
 
 ### Lesson 04 — R6/R15, Rig & Bone
 Đã thực hành:
-- Tạo Armature và chỉnh Bone trong Edit Mode.
-- Tạo bone bằng Extrude (E) và hiểu Parent/Child hierarchy.
+- Tạo Armature, chỉnh Bone trong Edit Mode, extrude bone bằng E và hiểu Parent/Child hierarchy.
 - Dùng Pose Mode để xoay bone và tạo keyframe.
 - Phân biệt Mesh, Bone, Armature, Skeleton và Rig.
-- Thử Bone Constraint Copy Rotation.
-- Tạo IK Target riêng, thêm Inverse Kinematics constraint và xác nhận target làm chuỗi cánh tay tự xoay theo.
+- Thử Bone Constraint Copy Rotation và phân biệt Bone Constraint với Object Constraint.
+- Thêm Inverse Kinematics constraint với Chain Length = 2; di chuyển IK target để cánh tay tự xoay theo.
+- Thêm Pole Target và xác nhận di chuyển Pole.L làm thay đổi hướng gập khuỷu tay.
+- Kiểm tra IK bằng cách di chuyển target/pole, xoay UpperArm.L và bật/tắt constraint.
 
-Đang học tiếp:
-- Pole Target để kiểm soát hướng gập khuỷu tay.
-- Sau đó củng cố checkpoint và chuyển sang cấu trúc character Roblox R6/R15.
+Tiếp theo:
+- Học cấu trúc Roblox R6 và R15; so sánh số phần cơ thể, khớp và rig.
+- Sau đó hoàn tất checkpoint tổng của Lesson 04.
 
-Lesson 04 vẫn IN PROGRESS; chưa đánh dấu DONE vì chưa hoàn thành checkpoint tổng.
+Lesson 04 vẫn IN PROGRESS; phần Rig/Bone cơ bản và IK/Pole đã thực hành, nhưng checkpoint tổng và R6/R15 còn lại.
 
 ## Cách học
 Mỗi bài gồm: mục tiêu → lý thuyết tối thiểu → thực hành → bài tập → tiêu chí PASS.
