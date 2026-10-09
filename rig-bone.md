@@ -300,3 +300,11 @@ Checkpoint thực hành:
 - Pole Target giải quyết vấn đề gì?
 
 Chưa đánh dấu Lesson 04 hoàn thành cho đến khi thực hành Pole Target và hoàn tất checkpoint tổng.
+## Kết quả thực hành — IK và Pole Target
+
+Đã xác nhận hoạt động trong Blender 5.2:
+- Di chuyển IK target làm chuỗi cánh tay tự xoay để theo target.
+- Di chuyển Pole.L làm thay đổi hướng gập khuỷu tay.
+- Thử xoay UpperArm.L và bật/tắt IK Constraint để quan sát ảnh hưởng lên chuỗi.
+
+Phần thực hành IK/Pole Target đã hoàn thành. Lesson 04 vẫn chưa đóng vì còn học cấu trúc Roblox R6/R15 và làm checkpoint tổng.
