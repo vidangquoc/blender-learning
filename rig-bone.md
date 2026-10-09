@@ -258,3 +258,45 @@ Sau khi hiểu phần này, ta sẽ chuyển sang:
 R6/R15 Roblox Character → cấu trúc skeleton thật → import/chuẩn bị trong Blender → animation Roblox.
 
 Không cần học rig nâng cao ngay. Trước tiên phải hiểu chắc Bone → Hierarchy → Pose → Keyframe.
+## Bài 14 — Constraint
+
+Constraint là quy tắc bổ sung để điều khiển một bone hoặc object. Ví dụ Copy Rotation có thể làm một bone nhận hướng xoay từ một bone/object khác.
+
+Phân biệt:
+- Parent/Child là quan hệ phân cấp trong skeleton; Parent ảnh hưởng đến Child theo hierarchy.
+- Constraint là một quy tắc điều khiển riêng, có thể liên kết chuyển động hoặc thuộc tính giữa các đối tượng/bone.
+
+Để thêm Bone Constraint, cần chọn Armature chính, vào Pose Mode và chọn bone cần áp dụng. Dùng Bone Constraints Properties, không phải Object Constraints nếu muốn constraint tác động lên bone.
+
+## Bài 15 — Inverse Kinematics (IK)
+
+IK cho phép đặt một target ở vị trí mong muốn để Blender tự tính góc xoay của chuỗi bone nhằm đưa phần cuối chuỗi về phía target.
+
+Thực hành đã hoàn thành:
+1. Tạo một Armature riêng làm IK target.
+2. Chọn bone cẳng tay trong Armature chính ở Pose Mode.
+3. Thêm Inverse Kinematics constraint vào bone.
+4. Chọn object IK target trong ô Target; nếu target là Armature, chọn bone target phù hợp trong ô Bone.
+5. Đặt Chain Length = 2 để tính chuỗi cánh tay gồm cẳng tay và cánh tay trên.
+6. Vào Pose Mode của IK target và di chuyển bone target bằng G.
+7. Xác nhận chuỗi cánh tay tự xoay để theo target.
+
+Lưu ý: IK constraint phải nằm trên bone của Armature chính. Trong Pose Mode, chỉ điều khiển bone thuộc Armature đang hoạt động; chọn target trong ô Target của constraint, không cần chọn hai Armature cùng lúc trong Viewport.
+
+## Bài 16 — Pole Target (đang học)
+
+Pole Target dùng để kiểm soát hướng gập của chuỗi IK, ví dụ hướng khuỷu tay hoặc đầu gối. Sau khi thêm Pole Target, cần đặt target lệch về phía hướng mà khuỷu tay nên gập và điều chỉnh Pole Angle nếu chuỗi xoay sai hướng.
+
+Checkpoint thực hành:
+- Di chuyển IK target và quan sát cánh tay theo target.
+- Thêm Pole Target và thử di chuyển nó để điều khiển hướng gập khuỷu tay.
+
+## Checkpoint bổ sung — Rig nâng cao
+
+- Constraint khác Parent/Child ở điểm nào?
+- Bone Constraint Properties khác Object Constraints như thế nào?
+- IK làm gì và Chain Length có ý nghĩa gì?
+- Vì sao IK target được chọn trong ô Target thay vì phải chọn cùng lúc trong Viewport?
+- Pole Target giải quyết vấn đề gì?
+
+Chưa đánh dấu Lesson 04 hoàn thành cho đến khi thực hành Pole Target và hoàn tất checkpoint tổng.
