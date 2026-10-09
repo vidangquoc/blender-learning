@@ -4,20 +4,23 @@
 
 | Hotkey | Chức năng |
 |---|---|
-| `G` | Move — Di chuyển object |
-| `R` | Rotate — Xoay object |
+| `G` | Move — Di chuyển object/bone/keyframe tùy editor và mode |
+| `R` | Rotate — Xoay object hoặc bone |
 | `S` | Scale — Phóng to / thu nhỏ object |
 
 ## Mode
 
 | Hotkey | Chức năng |
 |---|---|
-| `Tab` | Chuyển Object Mode ↔ Edit Mode |
+| `Tab` | Chuyển Object Mode ↔ Edit Mode (tùy object/context) |
+| `Ctrl + Tab` | Mở menu chuyển mode; với Armature thường dùng để vào Pose Mode |
 
 ## Edit
 
 | Hotkey | Chức năng |
 |---|---|
+| `E` | Extrude — Tạo bone mới từ bone/đầu bone đang chọn trong Armature Edit Mode |
+| `Shift + A` | Mở Add menu trong 3D Viewport |
 | `Ctrl + Z` | Undo — Hoàn tác |
 | `Ctrl + Shift + Z` | Redo — Làm lại |
 
@@ -25,7 +28,7 @@
 
 | Hotkey | Chức năng |
 |---|---|
-| `I` | Insert Keyframe |
+| `I` | Insert Keyframe (hành vi có thể phụ thuộc mode/context và phiên bản Blender) |
 | `Alt + I` | Xóa keyframe tại frame hiện tại |
 | `Space` | Play / Pause animation |
 | `Left Arrow` | Lùi 1 frame |
@@ -56,6 +59,15 @@
 |---|---|
 | `N` | Mở / đóng Sidebar (N-Panel) |
 | `T` | Mở / đóng Toolbar bên trái |
+
+## Rig & Bone
+
+| Hotkey / thao tác | Chức năng |
+|---|---|
+| `Ctrl + Tab` | Chuyển Armature sang Pose Mode qua menu mode |
+| `R` | Xoay bone đang chọn trong Pose Mode |
+| `G` | Di chuyển bone/IK target trong Pose Mode |
+| `E` | Extrude bone mới trong Armature Edit Mode |
 
 ## Ghi chú
 
