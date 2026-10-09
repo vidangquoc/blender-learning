@@ -13,8 +13,8 @@ Chỉ đánh dấu DONE khi đã thực hành và đạt tiêu chí PASS.
 1. 🟢 Blender Fundamentals — 01: Làm quen Blender & Timeline
 2. 🟢 Blender Fundamentals — 02: Transform & Keyframe
 3. 🟢 Blender Fundamentals — 03: Dope Sheet & Graph Editor cơ bản
-4. 🟡 Roblox Character — 04: R6/R15, Rig & Bone
-5. ⚪ Roblox Character — 05: Import/chuẩn bị character trong Blender
+4. 🟢 Roblox Character — 04: R6/R15, Rig & Bone
+5. 🟡 Roblox Character — 05: Import/chuẩn bị character trong Blender
 6. ⚪ Animation Fundamentals — 06: Timing, Spacing & Pose
 7. ⚪ Animation Fundamentals — 07: Idle Animation
 8. ⚪ Animation Fundamentals — 08: Walk/Run Animation
@@ -33,21 +33,23 @@ Chỉ đánh dấu DONE khi đã thực hành và đạt tiêu chí PASS.
 
 ## Tiến độ gần nhất
 
-### Lesson 04 — R6/R15, Rig & Bone
-Đã thực hành:
-- Tạo Armature, chỉnh Bone trong Edit Mode, extrude bone bằng E và hiểu Parent/Child hierarchy.
-- Dùng Pose Mode để xoay bone và tạo keyframe.
+### Lesson 04 — R6/R15, Rig & Bone — DONE
+Đã hoàn thành:
+- Tạo Armature và thao tác Bone trong Edit Mode; phân biệt Edit Mode với Pose Mode.
+- Hiểu quan hệ Parent/Child: bone con đi theo chuyển động của bone cha.
 - Phân biệt Mesh, Bone, Armature, Skeleton và Rig.
-- Thử Bone Constraint Copy Rotation và phân biệt Bone Constraint với Object Constraint.
-- Thêm Inverse Kinematics constraint với Chain Length = 2; di chuyển IK target để cánh tay tự xoay theo.
-- Thêm Pole Target và xác nhận di chuyển Pole.L làm thay đổi hướng gập khuỷu tay.
-- Kiểm tra IK bằng cách di chuyển target/pole, xoay UpperArm.L và bật/tắt constraint.
+- Thực hành xoay bone trong Pose Mode.
+- Thực hành Bone Constraint (Copy Rotation) và phân biệt Bone Constraint với Object Constraint.
+- Thêm Inverse Kinematics (IK) constraint, đặt Chain Length = 2 và điều khiển tay bằng IK Target.
+- Dùng Pole Target để điều chỉnh hướng gập khuỷu tay.
+- Kiểm tra IK bằng cách di chuyển target/pole và bật/tắt constraint.
+- Học cấu trúc R6 và R15, hiểu R15 có nhiều bộ phận/khớp hơn để hỗ trợ chuyển động linh hoạt hơn.
 
-Tiếp theo:
-- Học cấu trúc Roblox R6 và R15; so sánh số phần cơ thể, khớp và rig.
-- Sau đó hoàn tất checkpoint tổng của Lesson 04.
-
-Lesson 04 vẫn IN PROGRESS; phần Rig/Bone cơ bản và IK/Pole đã thực hành, nhưng checkpoint tổng và R6/R15 còn lại.
+### Lesson 05 — Import/chuẩn bị character trong Blender — IN PROGRESS
+Mục tiêu tiếp theo:
+- Chuẩn bị một character Roblox phù hợp để làm animation trong Blender.
+- Kiểm tra scale, hướng, rig/armature và tên/cấu trúc object trước khi animate.
+- Tránh animate nhầm mesh hoặc rig không phù hợp với quy trình Roblox.
 
 ## Cách học
 Mỗi bài gồm: mục tiêu → lý thuyết tối thiểu → thực hành → bài tập → tiêu chí PASS.
