@@ -27,11 +27,12 @@ Ghi chú nhanh khi dùng Roblox Studio trên MacBook trackpad để quan sát ri
 
 ### Tạo và chỉnh keyframe
 
-| Việc cần làm | Phím tắt |
+| Việc cần làm | Phím tắt / thao tác |
 |---|---|
 | Thêm keyframe cho track đang chọn | **+ / =** (phím cộng hoặc dấu bằng; có thể cần phím cộng trên numpad tùy bàn phím) |
 | Tạo keyframe ở vị trí ban đầu của object trên track hiện tại | **G** |
 | Mở tùy chọn chỉnh keyframe đang chọn (ví dụ easing) | **7** hoặc **Numpad 7** |
+| **Di chuyển một cụm keyframe đã chọn** | **Giữ Shift + kéo chuột (Shift + drag)** để kéo cả cụm keyframe đã chọn |
 | Cắt keyframe đang chọn | **Control (⌃) + X** hoặc **Shift + X** |
 | Sao chép keyframe đang chọn | **Control (⌃) + C** hoặc **Shift + C** |
 | Dán keyframe | **Control (⌃) + V** hoặc **Shift + V** |
