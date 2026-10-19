@@ -62,6 +62,7 @@ Ghi chú nhanh khi dùng Roblox Studio trên MacBook trackpad để quan sát ri
 | Tiến một frame | **6** hoặc **Numpad 6** |
 | Đi tới keyframe trước | **J** |
 | Đi tới keyframe tiếp theo | **K** |
+| **Di chuyển giữa các keyframe bằng thao tác cuộn** | **Option (⌥) + cuộn trackpad / scroll** |
 | Thu gọn / mở rộng track | **2** hoặc **Numpad 2** |
 | Bật/tắt onion skin của object đang chọn | **B** |
 | Áp dụng onion skin thành pose thật (nếu được hỗ trợ) | **N** |
