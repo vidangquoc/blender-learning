@@ -17,7 +17,7 @@
 1. [x] Cài đặt/kiểm tra plugin và mở giao diện.
 2. [x] Tạo hoặc đưa R6 rig vào scene; hiểu track, timeline và keyframe.
 3. [x] Tạo pose chính và chuyển pose bằng keyframe.
-4. [ ] Tìm hiểu easing, timing và spacing; lưu project đúng cách.
+4. [x] Tìm hiểu easing, timing và spacing; lưu project đúng cách.
 5. [ ] Tạo animation idle đơn giản.
 
 **Đầu ra:** một animation vẫy tay và một idle ngắn.
@@ -119,12 +119,12 @@ Bài chỉ được coi là hoàn thành khi sản phẩm phát lại được v
 - [x] Đã kiểm tra plugin Moon Animator 2.
 - [x] Đã chuẩn bị R6 rig.
 - [ ] Hoàn thành Bài 1–5: thao tác cơ bản, pose, keyframe, idle.
-- [x] Giai đoạn 1, mục 1–3: hoàn thành.
-- [ ] Giai đoạn 1, mục 4–5: chưa hoàn thành.
+- [x] Giai đoạn 1, mục 1–4: hoàn thành.
+- [ ] Giai đoạn 1, mục 5: đang học animation idle.
 - [ ] Hoàn thành Bài 6–8: locomotion.
 - [ ] Hoàn thành Bài 9–10: acting và hài.
 - [ ] Hoàn thành Bài 11–12: combat và tương tác.
 - [ ] Hoàn thành Bài 13–14: camera và phim ngắn.
 - [ ] Hoàn thành Bài 15: xuất bản/kiểm thử.
 
-**Trạng thái cập nhật (2026-10-20):** đã hoàn thành Giai đoạn 1, mục 1–3. Tiếp theo là mục 4: easing, timing, spacing và lưu project đúng cách; sau đó làm animation idle đơn giản ở mục 5.
+**Trạng thái cập nhật (2026-10-20):** đã hoàn thành Giai đoạn 1, mục 1–4. Bài tiếp theo là mục 5: tạo idle animation đơn giản và thử loop.
