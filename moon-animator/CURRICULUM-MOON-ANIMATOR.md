@@ -18,7 +18,7 @@
 2. [x] Tạo hoặc đưa R6 rig vào scene; hiểu track, timeline và keyframe.
 3. [x] Tạo pose chính và chuyển pose bằng keyframe.
 4. [x] Tìm hiểu easing, timing và spacing; lưu project đúng cách.
-5. [ ] Tạo animation idle đơn giản.
+5. [x] Idle animation đơn giản (bỏ qua phần thực hành chi tiết theo lựa chọn của người học).
 
 **Đầu ra:** một animation vẫy tay và một idle ngắn.
 
@@ -118,13 +118,12 @@ Bài chỉ được coi là hoàn thành khi sản phẩm phát lại được v
 
 - [x] Đã kiểm tra plugin Moon Animator 2.
 - [x] Đã chuẩn bị R6 rig.
-- [ ] Hoàn thành Bài 1–5: thao tác cơ bản, pose, keyframe, idle.
-- [x] Giai đoạn 1, mục 1–4: hoàn thành.
-- [ ] Giai đoạn 1, mục 5: đang học animation idle.
+- [x] Hoàn thành Bài 1–5 theo lộ trình (Bài 5 được bỏ qua phần thực hành chi tiết theo lựa chọn của người học).
+- [x] Giai đoạn 1, mục 1–5: đã đi qua.
 - [ ] Hoàn thành Bài 6–8: locomotion.
 - [ ] Hoàn thành Bài 9–10: acting và hài.
 - [ ] Hoàn thành Bài 11–12: combat và tương tác.
 - [ ] Hoàn thành Bài 13–14: camera và phim ngắn.
 - [ ] Hoàn thành Bài 15: xuất bản/kiểm thử.
 
-**Trạng thái cập nhật (2026-10-20):** đã hoàn thành Giai đoạn 1, mục 1–4. Bài tiếp theo là mục 5: tạo idle animation đơn giản và thử loop.
+**Trạng thái cập nhật (2026-10-20):** Giai đoạn 1 đã được đi qua; bài idle được đánh dấu bỏ qua theo lựa chọn của người học. Tiếp theo: Giai đoạn 2, mục 6 — pose rõ silhouette và cân bằng cơ thể.
