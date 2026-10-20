@@ -14,11 +14,11 @@
 
 ### Giai đoạn 1 — Làm chủ Moon Animator 2 (Tuần 1)
 
-1. Cài đặt/kiểm tra plugin và mở giao diện.
-2. Tạo hoặc đưa R6 rig vào scene; hiểu track, timeline và keyframe.
-3. Tạo pose chính và chuyển pose bằng keyframe.
-4. Tìm hiểu easing, timing và spacing; lưu project đúng cách.
-5. Tạo animation idle đơn giản.
+1. [x] Cài đặt/kiểm tra plugin và mở giao diện.
+2. [x] Tạo hoặc đưa R6 rig vào scene; hiểu track, timeline và keyframe.
+3. [x] Tạo pose chính và chuyển pose bằng keyframe.
+4. [ ] Tìm hiểu easing, timing và spacing; lưu project đúng cách.
+5. [ ] Tạo animation idle đơn giản.
 
 **Đầu ra:** một animation vẫy tay và một idle ngắn.
 
@@ -116,13 +116,15 @@ Bài chỉ được coi là hoàn thành khi sản phẩm phát lại được v
 
 ## Tiến độ
 
-- [ ] Đã kiểm tra plugin Moon Animator 2.
-- [ ] Đã chuẩn bị R6 rig.
+- [x] Đã kiểm tra plugin Moon Animator 2.
+- [x] Đã chuẩn bị R6 rig.
 - [ ] Hoàn thành Bài 1–5: thao tác cơ bản, pose, keyframe, idle.
+- [x] Giai đoạn 1, mục 1–3: hoàn thành.
+- [ ] Giai đoạn 1, mục 4–5: chưa hoàn thành.
 - [ ] Hoàn thành Bài 6–8: locomotion.
 - [ ] Hoàn thành Bài 9–10: acting và hài.
 - [ ] Hoàn thành Bài 11–12: combat và tương tác.
 - [ ] Hoàn thành Bài 13–14: camera và phim ngắn.
 - [ ] Hoàn thành Bài 15: xuất bản/kiểm thử.
 
-**Trạng thái ban đầu:** chưa bắt đầu giáo trình Moon Animator 2; cần xác nhận tình trạng plugin, rig hiện có và mục tiêu ưu tiên trước Bài 1.
+**Trạng thái cập nhật (2026-10-20):** đã hoàn thành Giai đoạn 1, mục 1–3. Tiếp theo là mục 4: easing, timing, spacing và lưu project đúng cách; sau đó làm animation idle đơn giản ở mục 5.
