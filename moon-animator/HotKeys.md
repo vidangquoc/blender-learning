@@ -42,11 +42,11 @@ Ghi chú nhanh khi dùng Roblox Studio trên MacBook trackpad để quan sát ri
 | Nhóm keyframe đã chọn | **Control (⌃) + G** |
 | Bỏ nhóm keyframe đã chọn | **Control (⌃) + U** |
 | Bỏ nhóm tất cả keyframe | **Shift + Control (⌃) + U** |
-| Tách (split) keyframe | **M** |
+| **Split Keyframes (tách keyframe)** | **M** |
 | Lấp/fill các frame | **Shift + K** |
 | Lặp/repeat các frame | **Shift + L** |
 | Kéo giãn các frame | **3** hoặc **Numpad 3** |
-| Phản chiếu animation của rig | **Control (⌃) + R** |
+| **Mirror (phản chiếu animation của rig)** | **Control (⌃) + R** |
 | Bật/tắt handles | **Control (⌃) + B** |
 | Undo | **Control (⌃) + Z** hoặc **Shift + Z** |
 | Redo | **Shift + Control (⌃) + Z**; một số bản có thể nhận **Control (⌃) + Y** |
