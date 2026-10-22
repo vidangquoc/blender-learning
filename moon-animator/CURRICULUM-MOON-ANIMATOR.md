@@ -26,7 +26,7 @@
 
 6. [x] Pose rõ silhouette và cân bằng cơ thể.
 7. [x] Walk cycle: contact, passing, down và up.
-8. Run cycle và thay đổi nhịp.
+8. [x] Run cycle và thay đổi nhịp.
 9. Jump, anticipation và landing.
 10. Timing, spacing, easing, arcs, squash/stretch theo mức phù hợp với rig Roblox, follow-through và overlap.
 
@@ -122,11 +122,12 @@ Bài chỉ được coi là hoàn thành khi sản phẩm phát lại được v
 - [x] Giai đoạn 1, mục 1–5: đã đi qua.
 - [x] Giai đoạn 2, mục 6: pose rõ silhouette và cân bằng cơ thể — người học báo đã hoàn thành.
 - [x] Giai đoạn 2, mục 7: walk cycle — người học báo đã hoàn thành.
-- [ ] Tiếp theo: Giai đoạn 2, mục 8 — run cycle và thay đổi nhịp.
+- [x] Giai đoạn 2, mục 8: run cycle và thay đổi nhịp — người học báo đã hoàn thành.
+- [ ] Tiếp theo: Giai đoạn 2, mục 9 — jump, anticipation và landing.
 - [ ] Hoàn thành các mục locomotion còn lại.
 - [ ] Hoàn thành Bài 9–10: acting và hài.
 - [ ] Hoàn thành Bài 11–12: combat và tương tác.
 - [ ] Hoàn thành Bài 13–14: camera và phim ngắn.
 - [ ] Hoàn thành Bài 15: xuất bản/kiểm thử.
 
-**Trạng thái cập nhật (2026-10-21):** Giai đoạn 1 đã được đi qua; bài idle được đánh dấu bỏ qua phần thực hành chi tiết theo lựa chọn của người học. Người học báo đã hoàn thành Giai đoạn 2, mục 6 — pose rõ silhouette và cân bằng cơ thể, và mục 7 — walk cycle. Tiếp theo: Giai đoạn 2, mục 8 — run cycle và thay đổi nhịp.
+**Trạng thái cập nhật (2026-10-21):** Giai đoạn 1 đã được đi qua; bài idle được đánh dấu bỏ qua phần thực hành chi tiết theo lựa chọn của người học. Người học báo đã hoàn thành Giai đoạn 2, mục 6 — pose rõ silhouette và cân bằng cơ thể, mục 7 — walk cycle, và mục 8 — run cycle và thay đổi nhịp. Tiếp theo: Giai đoạn 2, mục 9 — jump, anticipation và landing.
