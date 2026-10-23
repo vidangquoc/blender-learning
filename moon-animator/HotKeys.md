@@ -17,6 +17,8 @@ Ghi chú nhanh khi dùng Roblox Studio trên MacBook trackpad để quan sát ri
 | Di chuyển camera lên/xuống | **E**: lên; **Q**: xuống. |
 | Di chuyển camera chậm/chính xác hơn | Giữ **Shift** khi dùng các phím di chuyển camera như **W / A / S / D / Q / E**. |
 | Xoay camera quanh đối tượng đang focus | **,** và **.** xoay camera sang trái/phải quanh đối tượng đang được focus bằng **F**. |
+| **Xoay camera lên/xuống quanh nhân vật** | Giữ **chuột phải (Right-click)** trong 3D Viewport rồi kéo chuột lên/xuống. Trên MacBook trackpad, dùng thao tác **secondary click** để giữ chuột phải rồi rê ngón tay; cách thực hiện tùy cài đặt macOS/Studio. |
+| Phím tắt camera lên/xuống | **Không có phím tắt mặc định riêng** để xoay góc nhìn lên/xuống theo từng nấc. |
 | Zoom bằng bàn phím | **⌘ + =** để zoom gần; **⌘ + -** hoặc **O** để zoom xa. Có thể khác theo cấu hình/phím bàn phím. |
 | Đưa đối tượng vào giữa mà không đổi mức zoom | Thử **Shift + F** nếu chế độ camera hiện tại hỗ trợ **Center Without Zooming**. |
 | Di chuyển khung nhìn ngang/dọc (Pan) | Với chuột ngoài, giữ nút giữa và kéo. Nếu dùng trackpad, cử chỉ pan phụ thuộc chế độ camera và cài đặt. |
