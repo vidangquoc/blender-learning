@@ -34,7 +34,7 @@
 
 ### Giai đoạn 3 — Acting và biểu cảm (Tuần 3)
 
-11. Dùng đầu, thân, tay và hướng nhìn để dẫn mắt người xem.
+11. [x] Dùng đầu, thân, tay và hướng nhìn để dẫn mắt người xem.
 12. Tạo reaction: bất ngờ, tức giận, sợ hãi.
 13. Cường điệu chuyển động để tạo hài.
 14. Nhịp dừng, pose giữ và chuyển cảm xúc.
@@ -125,11 +125,12 @@ Bài chỉ được coi là hoàn thành khi sản phẩm phát lại được v
 - [x] Giai đoạn 2, mục 8: run cycle và thay đổi nhịp — người học báo đã hoàn thành.
 - [x] Giai đoạn 2, mục 9 — jump, anticipation và landing.
 - [x] Giai đoạn 2, mục 10 — timing, spacing, easing, arcs, follow-through và overlap (đã thực hành trên animation Jump).
-- [ ] Tiếp theo: Giai đoạn 3, mục 11 — dùng đầu, thân, tay và hướng nhìn để dẫn mắt người xem.
+- [x] Giai đoạn 3, mục 11 — dùng đầu, thân, tay và hướng nhìn để dẫn mắt người xem.
+- [ ] Tiếp theo: Giai đoạn 3, mục 12 — tạo reaction: bất ngờ, tức giận, sợ hãi.
 - [x] Hoàn thành các mục locomotion chính: walk, run và jump/landing.
 - [ ] Hoàn thành Bài 9–10: acting và hài.
 - [ ] Hoàn thành Bài 11–12: combat và tương tác.
 - [ ] Hoàn thành Bài 13–14: camera và phim ngắn.
 - [ ] Hoàn thành Bài 15: xuất bản/kiểm thử.
 
-**Trạng thái cập nhật (2026-10-23):** Giai đoạn 1 đã được đi qua; bài idle được bỏ qua phần thực hành chi tiết theo lựa chọn của người học. Người học đã báo hoàn thành Giai đoạn 2, mục 6 — pose rõ silhouette và cân bằng cơ thể, mục 7 — walk cycle, mục 8 — run cycle và thay đổi nhịp, mục 9 — jump, anticipation và landing, và mục 10 — timing, spacing, easing, arcs, follow-through và overlap qua bài thực hành trên animation Jump. Tiếp theo: Giai đoạn 3, mục 11 — dùng đầu, thân, tay và hướng nhìn để dẫn mắt người xem.
+**Trạng thái cập nhật (2026-10-26):** Giai đoạn 1 đã được đi qua; bài idle được bỏ qua phần thực hành chi tiết theo lựa chọn của người học. Người học đã báo hoàn thành Giai đoạn 2, mục 6–10 (pose, walk, run, jump/landing, timing/spacing/easing/arcs/follow-through/overlap) và Giai đoạn 3, mục 11 — dùng đầu, thân, tay và hướng nhìn để dẫn mắt người xem. Tiếp theo: Giai đoạn 3, mục 12 — tạo reaction: bất ngờ, tức giận, sợ hãi.
