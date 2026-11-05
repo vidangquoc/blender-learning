@@ -62,6 +62,8 @@
 
 **Đầu ra:** phim ngắn 30–60 giây.
 
+**Tài liệu quy trình:** [Quy trình sản xuất một cảnh Animation Story](scene-production-pipeline.md) — storyboard, layout, blocking, refinement, polish, camera/lighting và hậu kỳ.
+
 ### Giai đoạn 6 — Hoàn thiện và xuất bản (Tuần 7)
 
 26. Kiểm tra rig, keyframe, loop và chuyển động thừa.
