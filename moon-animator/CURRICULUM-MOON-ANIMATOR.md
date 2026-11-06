@@ -62,6 +62,8 @@
 
 **Đầu ra:** phim ngắn 30–60 giây.
 
+**Tài liệu camera:** [Camera Shots — Cỡ cảnh và góc máy](camera-shots.md) — EWS, WS, FS, MLS, MS, MCU, CU, ECU; góc máy và bố trí OTS/POV/Two-Shot.
+
 **Tài liệu quy trình:** [Quy trình sản xuất một cảnh Animation Story](scene-production-pipeline.md) — storyboard, layout, blocking, refinement, polish, camera/lighting và hậu kỳ.
 
 ### Giai đoạn 6 — Hoàn thiện và xuất bản (Tuần 7)
